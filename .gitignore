@@ -1,0 +1,7 @@
+*.txt
+*.jpg
+*.png
+*.pth
+*.mp4
+/.vs/
+/__pycache__/
