@@ -1,4 +1,4 @@
-[toc]
+
 
 # Semantic Line Measure
 
