@@ -3,5 +3,6 @@
 *.png
 *.pth
 *.mp4
+*.pyc
 /.vs/
 /__pycache__/
